@@ -264,7 +264,7 @@ button {
 .navigation.navbar-dark .navbar-nav .nav-link {
      padding: 7px 0px 27px 0px;
      margin: 0 22px;
-     color: #010101;
+     color: white;
      font-size: 16px;
      line-height: 20px;
      font-weight: 500;
@@ -754,7 +754,7 @@ button {
 /** footer **/
 
 .footer {
-     background: #0f1521;
+     background: black;
      margin-top: 90px;
      padding-top: 60px;
      text-align: center;
@@ -944,5 +944,8 @@ line-height: 35px;
 }
 
 
-
+.navbar a:hover {
+ 
+    color: plum;
+}
 
